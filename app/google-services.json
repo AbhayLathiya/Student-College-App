@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "390675531868",
+    "firebase_url": "https://kvnm-dec37-default-rtdb.firebaseio.com",
+    "project_id": "kvnm-dec37",
+    "storage_bucket": "kvnm-dec37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390675531868:android:36161bc38cf987d8b6be99",
+        "android_client_info": {
+          "package_name": "com.example.kvnm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc0FLTXnBjgwXeSZ1kBkE4MWmcAJnjGHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390675531868:android:f72ce65374a2ed11b6be99",
+        "android_client_info": {
+          "package_name": "com.example.kvnmapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc0FLTXnBjgwXeSZ1kBkE4MWmcAJnjGHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

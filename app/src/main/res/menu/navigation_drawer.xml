@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_eBook"
+        android:icon="@drawable/ic_ebook"
+        android:title="Ebooks"/>
+    <item
+        android:id="@+id/navigation_cgpa"
+        android:icon="@drawable/calc_blue"
+        android:title="GPA Calculator" />
+    <item
+        android:id="@+id/navigation_website"
+        android:icon="@drawable/ic_website"
+        android:title="Website"/>
+    <item
+        android:id="@+id/navigation_share"
+        android:icon="@drawable/ic_share"
+        android:title="Share"/>
+    <item
+        android:id="@+id/navigation_rate"
+        android:icon="@drawable/ic_rateus"
+        android:title="Rate Us"/>
+    <item
+        android:id="@+id/navigation_developer"
+        android:icon="@drawable/ic_developer"
+        android:title="Developers"/>
+
+
+</menu>
